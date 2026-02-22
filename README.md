@@ -1,4 +1,5 @@
 Healthcare No-Show Prediction using Statistical and Machine Learning Models
+
 Project Overview
 This project analyzes healthcare appointment attendance using statistical and machine learning models. The objective is to predict whether a patient will miss their appointment using demographic and operational data.
 Dataset size: 110,527 patient records
@@ -19,7 +20,3 @@ Jupyter Notebook containing full analysis
 Research paper documenting findings
 Model evaluation figures
 Feature importance analysis
-Author
-Ayush Nagar
-Healthcare Data Analyst
-MSc Data Science | BSc Statistics
